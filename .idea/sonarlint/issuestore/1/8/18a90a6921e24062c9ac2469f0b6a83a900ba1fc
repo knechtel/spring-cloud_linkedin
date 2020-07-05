@@ -1,0 +1,11 @@
+
+j
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8€Š‹ß±.
+f
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8€Š‹ß±.
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(º™µšıÿÿÿÿ8€Š‹ß±.
+b
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8€Š‹ß±.
+m
+java:S1128"PRemove this unused import 'org.springframework.core.ParameterizedTypeReference'.(©ç8€Š‹ß±.
